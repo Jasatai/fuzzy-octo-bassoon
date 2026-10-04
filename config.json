@@ -1,0 +1,15 @@
+{
+  "backlogia": {
+    "url": "http://localhost:8000",
+    "username": "your-backlogia-user",
+    "password": "your-backlogia-password"
+  },
+  "trackarr": {
+    "url": "http://localhost:9000",
+    "username": "your-trackarr-user",
+    "password": "your-trackarr-password"
+  },
+  "itch": {
+    "api_key": "your-itch-api-key"
+  }
+}
